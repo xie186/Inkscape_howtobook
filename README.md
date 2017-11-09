@@ -4,6 +4,7 @@
 
 Select `Edit` and then `Find/Replace`.
 
+
 ## 
 
 
@@ -11,4 +12,5 @@ Select `Edit` and then `Find/Replace`.
 
 Select `File` and then `Export PNG Images`.
 
-Shortcut key: `Shift+Ctrl+I`
+Keyboard Shortcut: `Shift+Ctrl+I`
+
